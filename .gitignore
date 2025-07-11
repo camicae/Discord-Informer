@@ -1,0 +1,4 @@
+.env
+discord_informer.log
+*.json
+__pycache__/
